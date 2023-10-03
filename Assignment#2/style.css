@@ -1,0 +1,59 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-color: darkgray;
+}
+
+article {
+    background-color: darkgray;
+}
+
+a {
+    color: orangered;
+}
+
+a:hover {
+    color: blue;
+}
+
+.lyrics {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+.caps-bold {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Rock Salt', cursive;
+}
+
+
+.container{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+
+.caps {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: 'Rock Salt', cursive;
+}
+
+.agree{
+    text-transform: lowercase;
+    font-weight: bold;
+    font-family: 'Rock Salt', cursive;
+}
+
+
+
